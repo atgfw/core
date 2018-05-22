@@ -1,9 +1,9 @@
 {
-    "product_copyright_owner": "Applied Technology Group Inc.",
-    "product_copyright_url": "https://www.atgfw.com/",
-    "product_copyright_years": "2018",
-    "product_email": "itsupport@atgfw.com",
-    "product_id": "atgsense",
-    "product_name": "ATGsense",
-    "product_website": "https://atgfw.com/"
+    "product_copyright_owner": "Deciso B.V.",
+    "product_copyright_url": "https://www.deciso.com/",
+    "product_copyright_years": "2014-2018",
+    "product_email": "project@opnsense.org",
+    "product_id": "opnsense",
+    "product_name": "OPNsense",
+    "product_website": "https://opnsense.org/"
 }
